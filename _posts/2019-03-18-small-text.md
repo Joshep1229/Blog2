@@ -3,7 +3,7 @@ title: Introducción al Blog
 ---
 
 
-  <p align="justify">En este blog encontrarás contenido que he venido generando sobre temas de análisis de datos </p>
+  <p align="justify">En este blog encontrarás contenido que he venido generando sobre temas de análisis de datos. </p>
 
  <p align="justify">Mi interés principal ha sido el marketing, puntualmente el análisis de los gustos y preferencias del consumidor, saber cómo podemos hecerle la vida mejor satisfaciendo sus necesidades y deseos, para ello usaré el análisis de pasando por la óptica tradicional (excel y powerBI), la óptica digital (Google Analytics, DataStudio, Google Ads) y los temas de analítica (RStudio).</p>
 
