@@ -2,8 +2,7 @@
 title: Introducción al Blog
 ---
 
-Test text
-{: style="color:gray; font-size: 80%; text-align: center;"}
+
 
 <center> En este blog encontrarás contenido que he venido generando sobre temas de análisis de datos 
 
