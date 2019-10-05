@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: Joshep | Un blog de data.
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Joshep Blanco"
+  email: "andersson1229@gmail.com"
+  url: "https://www.linkedin.com/in/joshepblanco/"
 
 # Build settings
 baseurl: /datablog # Change this to your relative path (ex: /blog/), or leave just a /
