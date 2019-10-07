@@ -2,7 +2,7 @@
 title: Introducción al Blog
 ---
 
-
+screen.orientation.lock('landscape');
   <p align="justify">En este blog encontrarás contenido que he venido generando sobre temas de análisis de datos. </p>
 
  <p align="justify">Mi interés principal ha sido el marketing, puntualmente entender los gustos y preferencias del consumidor, saber cómo podemos hecerle la vida mejor satisfaciendo sus necesidades y deseos, para ello usaré el <b>análisis de datos</b> pasando por la óptica tradicional (<i>excel</i> y <i>PowerBI</i>), la óptica digital (<i>Google Analytics</i>, <i>DataStudio</i>, <i>Google Ads</i>) y los temas de analítica (<i>RStudio</i>).</p>
