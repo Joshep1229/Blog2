@@ -10,4 +10,4 @@ title: Introducción al Blog
  <p align="justify">Los post serán para mí un cuaderno de notas que pueda llevar a todo momento y lugar, espero también que les ayude a mejorar su productividad y les permita encontrar ideas y métodos para encontrar los insights adecuados para su negocio. </p>
 
  <p align="justify">Si bien mi enfoque es el marketing muchas de las aplicaciones tienen cabida para diversas áreas (Operaciones, finanzas, Recursos humanos etc), solo es cuestión de adaptar la pregunta inicial y tratar correctamente los datos.  </p>
-{% include Pagina.html %}
+<p align="justify">{% include Pagina.html %}</p>
