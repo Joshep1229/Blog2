@@ -13,3 +13,5 @@ title: Introducción al Blog
 
 
 <iframe width="800" height="600" src="https://datastudio.google.com/open/1a7qodaUlGz5RDXlo7E4-ckMuDKSS649A" frameborder="0" allowFullScreen="true"></iframe>
+
+{% include Pagina.html %}
