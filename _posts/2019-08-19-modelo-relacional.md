@@ -32,8 +32,7 @@ Aquí le damos combinar y cargar, luego de ello seleccionamos la hoja referencia
 No hay texto alternativo para esta imagen
 
 
-Luego de estos dos pasos, ya tendremos nuestra primera base cargada,
-
+Luego de estos dos pasos, ya tendremos nuestra primera base cargada.
 
 Finalmente repetimos la acción con otro archivo que tendrá los datos de publicidad, cuya llave será el departamento, esto nos permitirá resolver preguntas como ¿cuánto es el ROI de la publicidad en general y por departamentos de la compañía?.
 
