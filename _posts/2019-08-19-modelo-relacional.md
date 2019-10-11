@@ -3,7 +3,7 @@ title: ¿Porqué un modelo relacional es mejor que múltiples buscarv para anali
 ---
 ![Test](/emerald/img/img-test.png "Test")
 
-Este artículo será el inicio de una serie de artículos que explorarán la importacia de Seleccionar (1), ordenar/(2) manipular , (3)visualizar y analizar los datos, todo ello con ejemplos prácticos y sencillos, en la fase inicial exploraré la importancia de seleccionar las fuentes de información adecuadas para tener un modelo de datos sostenible y significante.
+ <p align="justify"> Este artículo será el inicio de una serie de artículos que explorarán la importacia de Seleccionar (1), ordenar/(2) manipular , (3)visualizar y analizar los datos, todo ello con ejemplos prácticos y sencillos, en la fase inicial exploraré la importancia de seleccionar las fuentes de información adecuadas para tener un modelo de datos sostenible y significante.
 
 Un modelo perfecto de información (que incluya IMPORT, TIDY, TRANSFORM, VISUALIZE, AND MODEL DATA, dados en el libro de R for data science de Hadley Wickam) fallará si en la fase de selección escogemos datos que luego no puedan ser actualizados y contrastados constantemente.
 
@@ -47,7 +47,7 @@ Esta base conectada, equivale a tener una tabla que tiene tanto el gasto de publ
 
 Luego de esta relación podremos pasar a ordenar los datos en las bases (ordenar categorías de interés, manipular las columnas para filas personalizadas de datos de nuestro interés etc) esto nos ayudará a visualizar información importantes de múltiples fuentes en un solo tablero, este será el foco detalle de los siguientes posts.
 
-Un saludo.
+Un saludo.  </p>
 
 
 
